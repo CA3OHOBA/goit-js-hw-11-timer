@@ -1,0 +1,38 @@
+body{
+    background-color: #9cffb6;
+}
+
+h2 {
+    display: flex;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+
+    font-family: 'Parisienne', cursive;
+}
+
+
+.timer1 {
+    display: flex;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-weight: bolder;
+}
+.timer2 {
+    display: flex;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-weight: bolder;
+}
+
+
+
+.field {
+    margin-left: 25px;
+}
